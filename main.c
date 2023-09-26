@@ -7,7 +7,7 @@
 // int main()
 // {
 // 	char ch; ffffffffff
-// 	char txt[256];
+// 	char txt[256]; gggggggg
 // 	//wchar_t	txt[256];
 // 	//setlocale(LC_CTYPE, "Russian");
 // 	setlocale(LC_ALL, "Russian");
